@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"hdfc-cicd-test": {
+		"basepath": "/v1/test",
+		"product":"testProduct",
+		"app":"testApp",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}

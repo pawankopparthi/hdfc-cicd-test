@@ -1,0 +1,29 @@
+[
+    {
+        "name": "testProduct",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "testProduct"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "testProduct",
+        "displayName": "testProduct",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "hdfc-cicd-test"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
