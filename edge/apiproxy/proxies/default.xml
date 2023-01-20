@@ -130,7 +130,7 @@
         </Response>
     </PostFlow>
     <HTTPProxyConnection>
-        <BasePath>/v1/vivek</BasePath>
+        <BasePath>pawan</BasePath>
         <Properties/>
         <VirtualHost>secure</VirtualHost>
     </HTTPProxyConnection>
